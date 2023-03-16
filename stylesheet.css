@@ -27,3 +27,14 @@ html, body {
     font-size: x-large;
     padding-top: 5%;
 }
+p {
+    text-indent: 5%;
+    margin-left: 5%; 
+    margin-right: 10%; 
+    font-size: larger;
+}
+ol {
+    margin-left: 5%;
+    margin-right: 20%;
+    font-size: larger;
+}
