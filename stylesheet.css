@@ -21,3 +21,9 @@ html, body {
 .homebody {
     margin-left: 5%;
 }
+
+.milestonelinks {
+    text-align: center;
+    font-size: x-large;
+    padding-top: 5%;
+}
