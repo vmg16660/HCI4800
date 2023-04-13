@@ -1,0 +1,32 @@
+html, body {
+    padding: 0;
+    margin: 0;
+  }
+.navbar {
+    box-shadow: 0 5px 5px 0px gray;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.navlink {
+    font-size: x-large;
+    padding-top: 25px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.aboutinfo {
+    text-align: center;
+}
+.homebody {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: larger;
+}
+
+.milestonelinks {
+    text-align: center;
+    font-size: x-large;
+    padding-top: 5%;
+    
+}
